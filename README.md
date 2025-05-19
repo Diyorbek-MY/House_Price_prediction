@@ -57,7 +57,11 @@ This project helped me practice:
 I'm a beginner in data science, and this project is part of my learning journey. Feel free to fork or suggest improvements!
 
 If you want to run it straigh from google colab down below links:
+
 https://colab.research.google.com/drive/1d9MWZLzkuIDjdUKexM1LIawB3HFjRcAo?usp=sharing
+
 https://colab.research.google.com/drive/1ozVyW_4bh3qA2Cu1fNwbZUXHAjZilP_e?usp=sharing
+
 https://colab.research.google.com/drive/1SMrSjhX5VMGmtlPzoeMsj151nUKCPng0?usp=sharing
+
 https://colab.research.google.com/drive/1BXQg3F9ONogXVdX6HwYp32C1SQWRucZA?usp=sharing
